@@ -1,7 +1,7 @@
 ### Hello World, my name is Igor Santos 👩‍💻👋
  
  💻 Desenvolvedor 🐍 Python, ☕ Java e 📱 Android<br/>
- 🌱 Atualmente estou aprendendo HTML5 e CSS3<br/> 
+ 🌱 Atualmente estou aprendendo Android<br/> 
  🎓 Técnica em informática para internet - IFPE Campus Belo Jardim<br/> 
  🏫 Estudante do 5° período do IFPE - Bacharelado em Engenharia de Software<br/> 
  📌 Principais interesses: Python, Java, SQL e Data Science<br/> 
