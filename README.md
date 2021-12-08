@@ -2,7 +2,7 @@
  
  💻 Desenvolvedor 🐍 Python, ☕ Java e 📱 Android<br/>
  🌱 Atualmente estou aprendendo Android<br/> 
- 🎓 Técnica em informática para internet - IFPE Campus Belo Jardim<br/> 
+ 🎓 Técnicao em Informática para Internet - IFPE Campus Belo Jardim<br/> 
  🏫 Estudante do 5° período do IFPE - Bacharelado em Engenharia de Software<br/> 
  📌 Principais interesses: Python, Java, SQL e Data Science<br/> 
  
