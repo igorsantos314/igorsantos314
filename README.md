@@ -1,21 +1,16 @@
 ### Hello World, my name is Igor Santos 👩‍💻👋
  
- 💻 Desenvolvedor 🐍 Python, ☕ Java e 📱 Android<br/>
- 🌱 Atualmente estou aprendendo Android<br/> 
- 🎓 Técnico em Informática para Internet - IFPE Campus Belo Jardim<br/> 
- 🏫 Estudante do 5° período do IFPE - Bacharelado em Engenharia de Software<br/> 
- 📌 Principais interesses: Python, Java, SQL e Data Science<br/> 
+ 💻  Android Mobile Developer📱<br/>
+ 📌  Main interests: Native Android (Kotlin), Python and Java<br/>
  
-## GitHub stats
-
-<div align="center">
-  <a href="https://github.com/igorsantos314">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsantos314&layout=compact&langs_count=10&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igorsantos314&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div> 
+## Graduations
+ 🎓  Formado Técnico em Informática para Internet - IFPE Campus Belo Jardim<br/> 
+ 🏫  Estudante do 8° período de Bacharelado em Engenharia de Software - IFPE<br/> 
  
 ## Contact
- 📧 Email: igorag314@gmail.com<br/> 
+ 📬  Email: igorag314@gmail.com <br/> 
+ ☎️  Phone: +55 (81) 98233-3074 <br/> 
+     Linkedin: https://www.linkedin.com/in/igor-santos-8383941a6/ <br/> 
 
 
 
